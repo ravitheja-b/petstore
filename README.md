@@ -8,3 +8,4 @@ streamlit run chat-stockbot.py
 # Simple-JavaScript-Tasks
 # Simple-Java-xml-parser
 # Simple-php-tasks
+# petstore
